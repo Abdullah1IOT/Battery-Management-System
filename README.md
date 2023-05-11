@@ -16,3 +16,10 @@ The ultimate goal of BMS is to maximize the performance and lifespan of batterie
 <img src="https://github.com/Abdullah1IOT/Battery-Management-System/blob/main/opeartion.png">
 <h2>Netpie Freeboard</h2>
 <img src="https://github.com/Abdullah1IOT/Battery-Management-System/blob/main/netpie.png">
+<h2>Conclusion</h2>
+•	BMS is able to monitor and indicate all operations
+•	For any perturbation, contactor is opened, and battery operation should be terminated until fixed
+•	Battery charging and discharging can’t be done simultaneously
+•	PV>0 = LED off and battery gets charged
+•	PV<0= LED on and battery gets discharged
+
