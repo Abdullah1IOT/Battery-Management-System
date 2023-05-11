@@ -13,4 +13,6 @@ The ultimate goal of BMS is to maximize the performance and lifespan of batterie
 <h2>System Block Diagram</h2>
 <img src="https://github.com/Abdullah1IOT/Battery-Management-System/blob/main/flow%20chart.png">
 <h2>operating Conditions</h2>
+<img src="https://github.com/Abdullah1IOT/Battery-Management-System/blob/main/opeartion.png">
+<h2>Netpie Freeboard</h2>
 <img src="
